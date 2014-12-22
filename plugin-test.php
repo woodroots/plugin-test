@@ -4,6 +4,7 @@ Plugin Name: Plugin Test
 Plugin URI: https://github.com/woodroots/plugin-test
 Version: 1.0.1
 GitHub Plugin URI: https://github.com/woodroots/plugin-test
+
 */
 
 function customize_footer($text) {
