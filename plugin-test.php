@@ -3,12 +3,12 @@
 Plugin Name: Plugin Test
 Plugin URI: 
 Description: 
-Version: 0.1
+Version: 0.2
 Author: woodroots
 Author URI: http://wood-roots.com
 License: GPLv2 or later
 License URI: 
-GitHub Plugin URI: https://github.com/afragen/github-updater
+GitHub Plugin URI: https://github.com/woodroots/plugin-test
 GitHub Branch: master
 */
 
