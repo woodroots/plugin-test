@@ -2,7 +2,7 @@
 /*
 Plugin Name: Plugin Test
 Plugin URI: https://github.com/woodroots/plugin-test
-Version: 1.0.2
+Version: 1.1.0
 Text Domain: plugin-test
 GitHub Plugin URI: https://github.com/woodroots/plugin-test
 */
