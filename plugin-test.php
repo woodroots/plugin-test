@@ -1,13 +1,8 @@
 <?php 
 /*
 Plugin Name: Plugin Test
-Plugin URI: 
-Description: 
+Plugin URI: https://github.com/woodroots/plugin-test
 Version: 0.2
-Author: woodroots
-Author URI: http://wood-roots.com
-License: GPLv2 or later
-License URI: 
 GitHub Plugin URI: https://github.com/woodroots/plugin-test
 GitHub Branch: master
 */
